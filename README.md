@@ -199,7 +199,7 @@ Keep experimenting, stay curious, and complete your **100-day creative journey**
 
 ## 👥 Contributors Wall of Fame
 
-[![Contributors](https://contributors-img.web.app/image?repo=Shubham-cyber-prog/100-Days-Of-Creative-Code&animated=true&columns=12)](https://github.com/Shubham-cyber-prog/100-Days-Of-Creative-Code/graphs/contributors)
+[![Contributors](https://contributors-img.web.app/image?repo=Shubham-cyber-prog/100-Days-Of-Creative-Code&animated=true&columns=12)](https://github.com/Shubham-cyber-prog/100-Days-Of-Web-Development-ECWoC26/blob/main/CONTRIBUTING.md)
 
 
 **Happy Creating! 🎨**
